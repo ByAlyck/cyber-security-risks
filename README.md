@@ -1,4 +1,4 @@
-# Cybersecurity Risks - Complete Readme
+# Cybersecurity Risks 
 
 ## Introduction
 
