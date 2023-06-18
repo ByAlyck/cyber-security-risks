@@ -1,45 +1,9 @@
 # # Cyber Security Risks
 
 ## Table of Contents
-1. Introduction
-2. Common Cyber Security Risks
-    - Malware
-    - Phishing
-    - Social Engineering
-    - Denial of Service (DoS) Attacks
-    - Password Attacks
-    - Man-in-the-Middle (MitM) Attacks
-    - SQL Injection
-    - Cross-Site Scripting (XSS)
-    - Ransomware
-    - Insider Threats
-3. Best Practices for Mitigating Cyber Security Risks
-    - Use Strong and Unique Passwords
-    - Keep Software and Systems Up to Date
-    - Implement Multi-Factor Authentication (MFA)
-    - Educate Employees and Users
-    - Regularly Backup Data
-    - Use Firewalls and Antivirus Software
-    - Encrypt Sensitive Data
-    - Restrict Access to Critical Systems
-    - Monitor and Detect Anomalies
+
     - Implement Incident Response Plan
-4. Conclusion
-5. References
-
-## 1. Introduction
-In today's interconnected world, organizations and individuals face numerous cyber security risks. These risks pose a threat to the confidentiality, integrity, and availability of sensitive information and computer systems. This readme document provides an overview of common cyber security risks and suggests best practices for mitigating those risks.
-
-## 2. Common Cyber Security Risks
-
-### Malware
-Malware refers to malicious software designed to gain unauthorized access or cause damage to computer systems. It includes viruses, worms, ransomware, spyware, and other malicious programs. Malware can be delivered through email attachments, infected websites, or removable media.
-
-### Phishing
-Phishing is a technique used by cybercriminals to trick individuals into revealing sensitive information such as usernames, passwords, or financial details. Phishing attacks often involve emails or websites that appear legitimate, but are designed to deceive users.
-
-### Social Engineering
-Social engineering is the manipulation of individuals to gain unauthorized access to confidential information or computer systems. It involves psychological manipulation rather than technical exploits. Examples include impersonating someone in a position of authority, tricking users into revealing passwords, or gaining physical access to restricted areas.
+4. than technical exploits. Examples include impersonating someone in a position of authority, tricking users into revealing passwords, or gaining physical access to restricted areas.
 
 ### Denial of Service (DoS) Attacks
 Denial of Service (DoS) attacks aim to disrupt the availability of computer systems or networks by overwhelming them with a flood of illegitimate requests. This prevents legitimate users from accessing the targeted resource.
