@@ -49,7 +49,7 @@ With the proliferation of mobile devices and the Internet of Things (IoT), new s
 
 ### 10. Cloud Security Risks
 
-As organizations increasingly adopt cloud computing services, they face unique security risks. These risks include unauthorized access to cloud data, insecure APIs, data breaches, and inadequate security controls by cloud service providers. To mitigate cloud security risks, organizations should implement strong access controls, encryption, and robust monitoring and auditing of cloud environments..
+As organizations increasingly adopt cloud computing services, they face unique security risks. These risks include unauthorized access to cloud data, insecure APIs, data breaches, and inadequate security controls by cloud service providers. To mitigate cloud security risks, organizations should implement strong access controls, encryption, and robust monitoring and auditing of cloud environments.
 
 
 
