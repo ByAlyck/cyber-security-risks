@@ -26,7 +26,8 @@ Software vulnerabilities are flaws or weaknesses in applications, operating syst
 
 ### 5. Denial-of-Service Attacks (DDoS)
 
-Denial-of-Service (DDoS) attacks aim to overwhelm a system or network, making it inaccessible to legitimate users. These attacks are often carried out using a network of compromised computers, known as botnets, to flood the target system with an excessive amount of traffic. As a result, the targeted system becomes unavailable to users, causing disruption to services.
+Denial-of-Service (DDoS) attacks aim to overwhelm a system or network, making it inaccessible to legitimate users. These attacks are often carried out using a network of compromised computers, known as botnets, to flood the target system with an excessive amount of traffic. As a result, the targeted system becomes unavailable to users, causing disruption to services
+
 
 
 
