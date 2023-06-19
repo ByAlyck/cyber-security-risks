@@ -1,4 +1,4 @@
-# Cybersecurity Risks.
+# Cybersecurity Risks
 
 ## Introduction
 
